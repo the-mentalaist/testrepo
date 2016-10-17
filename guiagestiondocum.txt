@@ -1,3 +1,6 @@
-GUÍA DE ESTUDIO DE GESTIÓN DE LA DOCUMENTACIÓN 
+﻿GUÍA DE ESTUDIO DE GESTIÓN DE LA DOCUMENTACIÓN 
 
 Qué es lo que tengo que saber hacer en local:
+
+- Crear un nuevo repositorio
+- Añadir ficheros a la zona intermedia
